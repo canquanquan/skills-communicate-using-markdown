@@ -4,6 +4,6 @@
 
 yeah
 
-''' javascript
-==print("hello, world!")==
-'''
+``` javascript
+var myVar = "Hello, world!";
+```
